@@ -33,7 +33,7 @@ docker-compose up
 ```python
   pip install kafka-python
 ```
-## Import class from kafka on Python
+## Import Classes from kafka on Python
 ```python
 
 from kafka import KafkaProducer,KafkaConsumer
